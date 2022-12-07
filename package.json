@@ -1,0 +1,24 @@
+{
+  "name": "ecmasccript",
+  "version": "1.0.0",
+  "description": "Curso ECMAScript y versiones de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drestharx/ECMASCcript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "ESNext"
+  ],
+  "author": "Huascar Mejia <huascarhfe2014@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drestharx/ECMASCcript/issues"
+  },
+  "homepage": "https://github.com/drestharx/ECMASCcript#readme"
+}
