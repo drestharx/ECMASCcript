@@ -1,0 +1,10 @@
+//nos permitira utilizar los modulos del codigo cuando lo necesitemos
+//ayudando a que las paginas solo carguen lo necesario
+
+const button = document.querySelector('#btn');
+
+button.addEventListener('click', async function(){
+    const module = await import('./module.js');
+    console.log(module);
+    module.hello();
+})
